@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+
+.csgif{
+	  
+	background-image: url("comp.gif");
+}
+.infogif{
+	background-image: url("info.gif");
+	
+}
+.mechgif{
+	background-image: url("mech.gif");
+	
+}
+.bs{
+	background-size: cover;
+}
+.heading{
+	font-size: 50px; 
+	color: aliceblue;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: underline;
+	background-color: rgba(54,134,163,0.4);
+	margin-right: 500px;
+	padding: 30px;
+
+	
+}
+.content{
+	font-family: cursive;
+	font-size: 30px; 
+	color: azure;
+	background-color:rgba(81,180,117,0.4);
+	margin-left: 100px;
+	padding: 20px;
+		
+}

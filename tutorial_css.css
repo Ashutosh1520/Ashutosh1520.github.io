@@ -1,0 +1,60 @@
+body{
+	background: url("ml1.gif");
+	background-size: cover;
+	
+}
+h1{
+	color: aqua;
+	font-size: 50px;
+	text-decoration: underline;
+	font-family: Cambria;
+	font-style: italic;
+	outline:thin;
+	outline-color: aqua;
+	margin-left: 20px;
+	padding: 15px;
+	margin-right: auto;
+	background: rgba(74,208,206,0.3);
+}
+h2{
+	color:red;
+	font-size: 40px;
+	margin-left: 100px;
+	font-style: oblique;
+	background: rgba(205,40,42,0.3);
+	padding: 10px;
+	font-weight: bold;
+	margin-right: auto;
+	
+}
+li{
+	display: inline;
+	margin-left:30px;
+}
+iframe{
+	width: 400px;
+	height: 250px;
+	
+}
+.face{
+	height: 100px;
+	width: 100px;
+	margin-left: 30px;
+	float: left;
+}
+h6{
+	color: aliceblue;
+	font-size: 20px;
+	float: right;
+}
+h3{
+	color:lime;
+	font-size: 40px;
+	margin-left: 40px;
+	font-style: oblique;
+	background:rgba(23,196,37,0.3);
+	padding: 10px;
+	font-weight: bold;
+	margin-right: 550px;
+	
+}
